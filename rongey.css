@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  
+}
+
+body, html {
+  height: 100%;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+
+.video-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+
+
+section {
+  text-align: center
+};
+
+.bgimg {
+  background-image: url("https://www.google.com/search?q=norway+photo&rlz=1C1GCEB_enUS863US863&sxsrf=ACYBGNT_6hoeQdySZD77wO9qQuN4tVM60w:1568650206368&tbm=isch&source=iu&ictx=1&fir=2_4GA6ssSeM-MM%253A%252CpQrssxgBAhtSoM%252C_&vet=1&usg=AI4_-kRsuMRY5PJRNSqhEvTB1eoMk_LvJw&sa=X&ved=2ahUKEwju7s6y3dXkAhW2CjQIHRgBA9YQ9QEwAHoECAYQBA#imgrc=SeGLwB608k0v2M:&vet=1");
+  height: 100%;
+  position: relative;
+  opacity: 0.85;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; /* fixed in viewport */
+}
+
+
+header{
+  text-align: center;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button{
+  text-align: center;
+}
